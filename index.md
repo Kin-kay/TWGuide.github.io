@@ -141,7 +141,7 @@ Allows for Master to mute you.
 If "Allow Force Mute" is on along with this toggle you will be muffled instead of muted.
 
 ### Enable Toy Control
-Enable to allow for Lovense integration with T.W. [Setup]()
+Enable to allow for Lovense integration with T.W. [Setup](https://kin-kay.github.io/kinkay-twtoyintegration.github.io/)
 
 ### Allow Toy Control
 Allow for your connected toy to be controlled through T.W.
