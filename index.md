@@ -172,7 +172,7 @@ Sets where the lead will attach to your body when you are a master. [ReadMore](h
 Settings for enabling Pi Shock features.
 
 ### Allow Shock Control
-Enable to allow for Pi Shock integration with T.W. [Setup]()
+Enable to allow for Pi Shock integration with T.W. [Setup](https://user-images.githubusercontent.com/105324215/177891704-d7ba3f54-f60e-4067-8e3d-02248b46b2c3.mp4)
 
 ### Allow Beep
 Allow Master to Beep PiShock Devices.
