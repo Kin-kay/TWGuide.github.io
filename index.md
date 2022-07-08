@@ -3,8 +3,8 @@
 > This is designed to be as relevent to its current version as possible.
 
 ## The Installation
-1. Run Melonloader
-2. Go find mods folder
+1. Run Melonloader Installer
+2. Go find mods folder (Probably at C:\Program Files (x86)\Steam\steamapps\common\VRChat\)
 3. Drag and drop mod into mods folder
 4. Run VRC
 
