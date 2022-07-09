@@ -22,37 +22,37 @@ description: A General Guide To TotallyWholesome
 <details>
   <summary>Click To Expand.</summary>
 
-Once you have loaded into VRC and go to your QuickMenu you are going to see a new tab. Clicking this tab will bring you to this first menu, the main menu. *After you accept the eula*
+  Once you have loaded into VRC and go to your QuickMenu you are going to see a new tab. Clicking this tab will bring you to this first menu, the main menu. *After you accept the eula*
 
-### Remove Leash
-Remove Leash does as it says. If you have *ANY* leashes attached clicking this button will remove *ALL* of the leashes.
+  <h3>Remove Leash</h3>
+  Remove Leash does as it says. If you have *ANY* leashes attached clicking this button will remove *ALL* of the leashes.
 
-### Clear Notifications
-Clear Notifications clears all current notifications, even those that are *currently* pending. This is more used if you need to clear a build up of T.W. requests.
+  <h3>Clear Notifications</h3>
+  Clear Notifications clears all current notifications, even those that are *currently* pending. This is more used if you need to clear a build up of T.W. requests.
 
-### TW Settings
-A collection of settings for T.W. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-settings-1)
+  <h3>TW Settings</h3>
+  A collection of settings for T.W. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-settings-1)
 
-### Status and ETC
-A collection of settings refering to your T.W. status and other information. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#status-and-etc-1)
+  <h3>Status and ETC</h3>
+  A collection of settings refering to your T.W. status and other information. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#status-and-etc-1)
 
-### Gag Pets
-This toggle will attempt to gag *ALL* pets leashed. *This will fail if pet does not have force mute allowed.*
+  <h3>Gag Pets</h3>
+  This toggle will attempt to gag *ALL* pets leashed. *This will fail if pet does not have force mute allowed.*
 
-### Temp Unlock Leashes
-This toggle will temporarily unlock *ALL* leashes attached to pets. *THIS WILL NOT UNLOCK YOU!*
+  <h3>Temp Unlock Leashes</h3>
+  This toggle will temporarily unlock *ALL* leashes attached to pets. *THIS WILL NOT UNLOCK YOU!*
 
-### AV3 Remote Config
-A collection of your current avatars parameters that you can set to allow the Master to control. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#av3-remote-config-1)
+  <h3>AV3 Remote Config</h3>
+  A collection of your current avatars parameters that you can set to allow the Master to control. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#av3-remote-config-1)
 
-### Individual Pet Controls
-A collection of your current pets allowing for individual control of each pet. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#individual-pet-control)
+  <h3>Individual Pet Controls</h3>
+  A collection of your current pets allowing for individual control of each pet. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#individual-pet-control)
 
-### Leash Length
-Sets the length for *ALL* pet leashes. *THIS WILL NOT CHANGE YOUR LEASH!*
+  <h3>Leash Length</h3>
+  Sets the length for *ALL* pet leashes. *THIS WILL NOT CHANGE YOUR LEASH!*
 
-### Lovense Strength
-Sets the strength for *ALL* connected pet lovense. *THIS WILL NOT EFFECT YOUR LOVENSE!*
+  <h3>Lovense Strength</h3>
+  Sets the strength for *ALL* connected pet lovense. *THIS WILL NOT EFFECT YOUR LOVENSE!*
     
 </details>
   
@@ -62,37 +62,37 @@ Sets the strength for *ALL* connected pet lovense. *THIS WILL NOT EFFECT YOUR LO
 <details>
   <summary>Click To Expand.</summary>
 
-Under the Main Menu we have the PiShock Main Menu.
+  Under the Main Menu we have the PiShock Main Menu.
 
-### Beep
-It beeps *ALL* connected pet PiShock devices. *BEEP*
+  <h3>Beep</h3>
+  It beeps *ALL* connected pet PiShock devices. *BEEP*
 
-### Vibrate
-It vibrates *ALL* connected pet PiShock devices. *BRR*
+  <h3>Vibrate</h3>
+  It vibrates *ALL* connected pet PiShock devices. *BRR*
 
-### Shock
-It shocks *ALL* connected pet PiShock devices. *BZZT*
+  <h3>Shock</h3>
+  It shocks *ALL* connected pet PiShock devices. *BZZT*
 
-### Height Control
-Toggles on and off height control for *ALL* connected pet PiShock devices. 
+  <h3>Height Control</h3>
+  Toggles on and off height control for *ALL* connected pet PiShock devices. 
 
-### Strength
-The strength of the Beep, Vibrate, and Shock for *ALL* connected pet PiShock devices.
+  <h3>Strength</h3>
+  The strength of the Beep, Vibrate, and Shock for *ALL* connected pet PiShock devices.
 
-### Duration
-The duration of the Beep, Vibrate, and Shock for *ALL* connected pet PiShock devices.
+  <h3>Duration</h3>
+  The duration of the Beep, Vibrate, and Shock for *ALL* connected pet PiShock devices.
 
-### Shock Height
-Sets the height at which if the pet goes over it will trigger height control.
+  <h3>Shock Height</h3>
+  Sets the height at which if the pet goes over it will trigger height control.
 
-### Shock Height Max Strength
-The max strength shock that the pet will recieve when going over the height control limit.
+  <h3>Shock Height Max Strength</h3>
+  The max strength shock that the pet will recieve when going over the height control limit.
 
-### Shock Height Min Strength
-The min strength shock that the pet will recieve when going over the height control limit.
+  <h3>Shock Height Min Strength</h3>
+  The min strength shock that the pet will recieve when going over the height control limit.
 
-### Shock Height Step Strength
-How fast the shocks go from Min Strength to Max Strength.
+  <h3>Shock Height Step Strength</h3>
+  How fast the shocks go from Min Strength to Max Strength.
 
 </details>  
   
@@ -102,46 +102,46 @@ How fast the shocks go from Min Strength to Max Strength.
 <details>
   <summary>Click To Expand.</summary>
 
-The first grouping under T.W. Settings
+  The first grouping under T.W. Settings
 
   <h3>Hide The Leash</h3>
-Toggles if any leash attached to you is hidden to everyone *INCLUDING YOU* or not.
+  Toggles if any leash attached to you is hidden to everyone *INCLUDING YOU* or not.
 
-### Private Leash
-Toggles if any leash attached to you is hidden to everyone *EXCLUDING PET AND MASTER* or not.
+  <h3>Private Leash</h3>
+  Toggles if any leash attached to you is hidden to everyone *EXCLUDING PET AND MASTER* or not.
 
-### Auto Accept Requests From Friends Only
-Checks to see if you have "Auto Accept Pet Requests" or "Auto Accept Master Requests" enabled then checks if the person requesting is your friend. If they are the request will be accepted.
+  <h3>Auto Accept Requests From Friends Only</h3>
+  Checks to see if you have "Auto Accept Pet Requests" or "Auto Accept Master Requests" enabled then checks if the person requesting is your friend. If they are the request will be accepted.
 
-### Use Tab Menu
-Sets if the T.W. Menu will appear in the Tab Menu (your Quick Menu).
+  <h3>Use Tab Menu</h3>
+  Sets if the T.W. Menu will appear in the Tab Menu (your Quick Menu).
 
-### Use Old HUD Messages
-Toggles if T.W. will use the Old HUD messages for notifications.
+  <h3>Use Old HUD Messages</h3>
+  Toggles if T.W. will use the Old HUD messages for notifications.
 
-### Pet/Master Join Notifications
-Toggles if you will recieve notifications when your Pet or Master joins.
+  <h3>Pet/Master Join Notifications</h3>
+  Toggles if you will recieve notifications when your Pet or Master joins.
 
-### Use ActionMenu Controls
-Toggles if T.W. will use ActionMenu controls (your Radial Menu).
+  <h3>Use ActionMenu Controls</h3>
+  Toggles if T.W. will use ActionMenu controls (your Radial Menu).
 
-### Use UIX Buttons
-Toggles if T.W. will use UIX buttons for settings.
+  <h3>Use UIX Buttons</h3>
+  Toggles if T.W. will use UIX buttons for settings.
 
-### Use Beta Versions
-Toggles if you will use the Beta Version. *Only works if you have the beta key.*
+  <h3>Use Beta Versions</h3>
+  Toggles if you will use the Beta Version. *Only works if you have the beta key.*
 
-### Restart Buttplug
-Attempts to restart Buttplug.io
+  <h3>Restart Buttplug</h3>
+  Attempts to restart Buttplug.io
 
-### Test Toys
-Vibrates your connected Lovense toys and beeps your connected pishock toys.
+  <h3>Test Toys</h3>
+  Vibrates your connected Lovense toys and beeps your connected pishock toys.
 
-### Reload Config
-Reloads the T.W. Settings config.
+  <h3>Reload Config</h3>
+  Reloads the T.W. Settings config.
 
-### Menu Visibility Settings
-A collection of menus that you can show or hide from the main menu. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#menu-visibility-settings-1)
+  <h3>Menu Visibility Settings</h3>
+  A collection of menus that you can show or hide from the main menu. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#menu-visibility-settings-1)
 
 </details>  
 
@@ -151,28 +151,28 @@ A collection of menus that you can show or hide from the main menu. [ReadMore](h
 <details>
   <summary>Click To Expand.</summary>
 
-Settings for when you are a pet.
+  Settings for when you are a pet.
 
-### Auto Accept Pet Request
-Does as it says. Auto Accepts pet requests from anyone that isn't blocked on T.W.
+  <h3>Auto Accept Pet Request</h3>
+  Does as it says. Auto Accepts pet requests from anyone that isn't blocked on T.W.
 
-### Allow Force Mute
-Allows for Master to mute you.
+  <h3>Allow Force Mute</h3>
+  Allows for Master to mute you.
 
-### Enable Muffled Mode
-If "Allow Force Mute" is on along with this toggle you will be muffled instead of muted.
+  <h3>Enable Muffled Mode</h3>
+  If "Allow Force Mute" is on along with this toggle you will be muffled instead of muted.
 
-### Enable Toy Control
-Enable to allow for Lovense integration with T.W. [Setup](https://kin-kay.github.io/kinkay-twtoyintegration.github.io/)
+  <h3>Enable Toy Control</h3>
+  Enable to allow for Lovense integration with T.W. [Setup](https://kin-kay.github.io/kinkay-twtoyintegration.github.io/)
 
-### Allow Toy Control
-Allow for your connected toy to be controlled through T.W.
+  <h3>Allow Toy Control</h3>
+  Allow for your connected toy to be controlled through T.W.
 
-### Follow Master On World Change
-If Master has "Allow Pet To Follow You" enabled when your master moves to a new world you will be pulled with them.
+  <h3>Follow Master On World Change</h3>
+  If Master has "Allow Pet To Follow You" enabled when your master moves to a new world you will be pulled with them.
 
-### Pet Lead Attach Point
-Sets where the lead will attach to your body when you are a pet. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pet-lead-attach-point-1)
+  <h3>Pet Lead Attach Point</h3>
+  Sets where the lead will attach to your body when you are a pet. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pet-lead-attach-point-1)
 
 </details>  
   
@@ -182,16 +182,16 @@ Sets where the lead will attach to your body when you are a pet. [ReadMore](http
 <details>
   <summary>Click To Expand.</summary>
 
-Settings for when you are a master.
+  Settings for when you are a master.
 
-### Allow Pet To Follow You
-Sends world change to pet to allow them to follow.
+  <h3>Allow Pet To Follow You</h3>
+  Sends world change to pet to allow them to follow.
 
-### Auto Accept Master Requests
-Does as it says. Auto Accepts Master Requests from *anyone* that is not blocked through T.W.
+  <h3>Auto Accept Master Requests</h3>
+  Does as it says. Auto Accepts Master Requests from *anyone* that is not blocked through T.W.
 
-### Master Lead Attach Point
-Sets where the lead will attach to your body when you are a master. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#master-lead-attach-point-1)
+  <h3>Master Lead Attach Point</h3>
+  Sets where the lead will attach to your body when you are a master. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#master-lead-attach-point-1)
 
 </details>  
   
@@ -201,25 +201,25 @@ Sets where the lead will attach to your body when you are a master. [ReadMore](h
 <details>
   <summary>Click To Expand.</summary>
 
-Settings for enabling Pi Shock features.
+  Settings for enabling Pi Shock features.
 
-### Allow Shock Control
-Enable to allow for Pi Shock integration with T.W. [Setup](https://user-images.githubusercontent.com/105324215/177891704-d7ba3f54-f60e-4067-8e3d-02248b46b2c3.mp4)
+  <h3>Allow Shock Control</h3>
+  Enable to allow for Pi Shock integration with T.W. [Setup](https://user-images.githubusercontent.com/105324215/177891704-d7ba3f54-f60e-4067-8e3d-02248b46b2c3.mp4)
 
-### Allow Beep
-Allow Master to Beep PiShock Devices.
+  <h3>Allow Beep</h3>
+  Allow Master to Beep PiShock Devices.
 
-### Allow Vibrate
-Allow Master to Vibrate PiShock Devices.
+  <h3>Allow Vibrate</h3>
+  Allow Master to Vibrate PiShock Devices.
 
-### Allow Shock
-Allow Master to Shock PiShock Devices.
+  <h3>Allow Shock</h3>
+  Allow Master to Shock PiShock Devices.
 
-### Allow Height Control
-Allow Master to toggle height control.
+  <h3>Allow Height Control</h3>
+  Allow Master to toggle height control.
 
-### Height Control Warning
-Recieve a warning when you are about to trigger the height control shock.
+  <h3>Height Control Warning</h3>
+  Recieve a warning when you are about to trigger the height control shock.
 
 </details>  
   
@@ -229,19 +229,19 @@ Recieve a warning when you are about to trigger the height control shock.
 <details>
   <summary>Click To Expand.</summary>
 
-Settings for connecting with T.W.
+  Settings for connecting with T.W.
 
-### Custom Leash Colour
-Enable for custom color
+  <h3>Custom Leash Colour</h3>
+  Enable for custom color
 
-### Disconnect From TWNet
-Should not need to be used. Disconnects you from TW
+  <h3>Disconnect From TWNet</h3>
+  Should not need to be used. Disconnects you from TW
 
-### Reconnect to TWNet
-Should not need to be used. TW will auto reconnect unless disconnected using "Disconnect From TWNet".
+  <h3>Reconnect to TWNet</h3>
+  Should not need to be used. TW will auto reconnect unless disconnected using "Disconnect From TWNet".
 
-### Leash Colour
-Menu for changing your leash colour. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#leash-colour-1)
+  <h3>Leash Colour</h3>
+  Menu for changing your leash colour. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#leash-colour-1)
 
 </details>  
   
@@ -251,11 +251,11 @@ Menu for changing your leash colour. [ReadMore](https://github.com/Kin-kay/TWGui
 <details>
   <summary>Click To Expand.</summary>
 
-### Hide Pi Shock Elements
-Enabling hides the Pi Shock Elements from the Main Menu.
+  <h3>Hide Pi Shock Elements</h3>
+  Enabling hides the Pi Shock Elements from the Main Menu.
 
-### Hide Toy Strength
-Enabling hides the toy strength slider from the Main Menu.
+  <h3>Hide Toy Strength</h3>
+  Enabling hides the toy strength slider from the Main Menu.
 
 </details>  
   
@@ -275,11 +275,11 @@ Selecting any of these will change that to be where the leash attaches to you wh
 <details>
   <summary>Click To Expand.</summary>
 
-### Save 
-Sets the color in "Colour Preview" as your leash colour.
+  <h3>Save</h3>
+  Sets the color in "Colour Preview" as your leash colour.
 
-### Save As Preset
-Sets the color in "Colour Preview" as a preset below.
+  <h3>Save As Preset</h3>
+  Sets the color in "Colour Preview" as a preset below.
 
 </details>  
   
@@ -289,22 +289,22 @@ Sets the color in "Colour Preview" as a preset below.
 <details>
   <summary>Click To Expand.</summary>
 
-Menus for status
+  Menus for status
 
-### Enable Status
-Enables having a T.W. Logo near your nametag.
+  <h3>Enable Status</h3>
+  Enables having a T.W. Logo near your nametag.
 
-### Display Special Badge
-Enabled Special tag on the T.W. logo if you have one.
+  <h3>Display Special Badge</h3>
+  Enabled Special tag on the T.W. logo if you have one.
 
-### Hide Status In Public
-Hides T.W. Status in public worlds.
+  <h3>Hide Status In Public</h3>
+  Hides T.W. Status in public worlds.
 
-### Enter Rank Key
-You get one of these if you in the Beta.
+  <h3>Enter Rank Key</h3>
+  You get one of these if you in the Beta.
 
-### Other stuff
-Buttons for the discord, the PiShock homepage, and the eula.
+  <h3>Other stuff</h3>
+  Buttons for the discord, the PiShock homepage, and the eula.
 
 </details>  
   
@@ -321,7 +321,7 @@ IF YOU ARE WEARING A SDK3.0 AVI
 
 ![AV3RemoteConfigSDK3](https://user-images.githubusercontent.com/105324215/177842491-3c52b60c-8426-4b69-8ae2-9ab3a16c3630.png)  
   
-### Parameters
+<h3>Parameters</h3>
 Enabling any of the parameters you see will allow the master to control them.
   
 </details>
