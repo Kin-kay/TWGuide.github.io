@@ -18,7 +18,9 @@ description: A General Guide To TotallyWholesome
 
 # [Main Menu](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#main-menu)
 ![MainMenu](https://user-images.githubusercontent.com/105324215/177820267-421a981c-03aa-459d-a985-b0cfd57148eb.png)
+
 {::options parse_block_html="true" /}
+
 <details>
   <summary>Click To Expand.</summary>
 
@@ -55,10 +57,14 @@ description: A General Guide To TotallyWholesome
   Sets the strength for <i>ALL<i> connected pet lovense. <i>THIS WILL NOT EFFECT YOUR LOVENSE!</i>
     
 </details>
-{::options parse_block_html="false" /}  
+  
+{::options parse_block_html="false" /}
+  
 # [PiShock Main Menu](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pishock-main-menu)
 ![ShockMainMenu](https://user-images.githubusercontent.com/105324215/177823798-8b85b6a2-1407-441e-98bc-0163b1e096d1.png)
+
 {::options parse_block_html="true" /}
+  
 <details>
   <summary>Click To Expand.</summary>
 
@@ -95,10 +101,14 @@ description: A General Guide To TotallyWholesome
   How fast the shocks go from Min Strength to Max Strength.
 
 </details>  
+  
 {::options parse_block_html="false" /}  
+  
 # [T.W. Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-settings-1)
 ![SettingsMainMenu](https://user-images.githubusercontent.com/105324215/177828906-60118019-088f-4aa9-8e75-0160bf5fa050.png)
+  
 {::options parse_block_html="true" /}
+  
 <details>
   <summary>Click To Expand.</summary>
 
