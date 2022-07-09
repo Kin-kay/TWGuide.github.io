@@ -1,5 +1,9 @@
-# A general T.W. guide
-### Current version 3.2
+---
+title: TW Guide
+description: A General Guide To TotallyWholesome
+---
+
+##### Current version 3.2
 > This is designed to be as relevent to its current version as possible.
 
 ## [The Installation](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#the-installation)
@@ -17,38 +21,39 @@
 
 <details>
   <summary>Click To Expand.</summary>
-  
-  Once you have loaded into VRC and go to your QuickMenu you are going to see a new tab. Clicking this tab will bring you to this first menu, the main menu. *After you accept the eula*
 
-  ### Remove Leash
-  Remove Leash does as it says. If you have *ANY* leashes attached clicking this button will remove *ALL* of the leashes.
+Once you have loaded into VRC and go to your QuickMenu you are going to see a new tab. Clicking this tab will bring you to this first menu, the main menu. *After you accept the eula*
 
-  ### Clear Notifications
-  Clear Notifications clears all current notifications, even those that are *currently* pending. This is more used if you need to clear a build up of T.W. requests.
+### Remove Leash
+Remove Leash does as it says. If you have *ANY* leashes attached clicking this button will remove *ALL* of the leashes.
 
-  ### TW Settings
-  A collection of settings for T.W. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-settings-1)
+### Clear Notifications
+Clear Notifications clears all current notifications, even those that are *currently* pending. This is more used if you need to clear a build up of T.W. requests.
 
-  ### Status and ETC
-  A collection of settings refering to your T.W. status and other information. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#status-and-etc-1)
+### TW Settings
+A collection of settings for T.W. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-settings-1)
 
-  ### Gag Pets
-  This toggle will attempt to gag *ALL* pets leashed. *This will fail if pet does not have force mute allowed.*
+### Status and ETC
+A collection of settings refering to your T.W. status and other information. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#status-and-etc-1)
 
-  ### Temp Unlock Leashes
-  This toggle will temporarily unlock *ALL* leashes attached to pets. *THIS WILL NOT UNLOCK YOU!*
+### Gag Pets
+This toggle will attempt to gag *ALL* pets leashed. *This will fail if pet does not have force mute allowed.*
 
-  ### AV3 Remote Config
-  A collection of your current avatars parameters that you can set to allow the Master to control. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#av3-remote-config-1)
+### Temp Unlock Leashes
+This toggle will temporarily unlock *ALL* leashes attached to pets. *THIS WILL NOT UNLOCK YOU!*
 
-  ### Individual Pet Controls
-  A collection of your current pets allowing for individual control of each pet. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#individual-pet-control)
+### AV3 Remote Config
+A collection of your current avatars parameters that you can set to allow the Master to control. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#av3-remote-config-1)
 
-  ### Leash Length
-  Sets the length for *ALL* pet leashes. *THIS WILL NOT CHANGE YOUR LEASH!*
+### Individual Pet Controls
+A collection of your current pets allowing for individual control of each pet. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#individual-pet-control)
 
-  ### Lovense Strength
-  Sets the strength for *ALL* connected pet lovense. *THIS WILL NOT EFFECT YOUR LOVENSE!*
+### Leash Length
+Sets the length for *ALL* pet leashes. *THIS WILL NOT CHANGE YOUR LEASH!*
+
+### Lovense Strength
+Sets the strength for *ALL* connected pet lovense. *THIS WILL NOT EFFECT YOUR LOVENSE!*
+    
 </details>
   
 # [PiShock Main Menu](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pishock-main-menu)
@@ -99,7 +104,7 @@ How fast the shocks go from Min Strength to Max Strength.
 
 The first grouping under T.W. Settings
 
-### Hide The Leash
+  <h3>Hide The Leash</h3>
 Toggles if any leash attached to you is hidden to everyone *INCLUDING YOU* or not.
 
 ### Private Leash
