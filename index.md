@@ -18,7 +18,7 @@ description: A General Guide To TotallyWholesome
 
 # [Main Menu](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#main-menu)
 ![MainMenu](https://user-images.githubusercontent.com/105324215/177820267-421a981c-03aa-459d-a985-b0cfd57148eb.png)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -55,10 +55,10 @@ description: A General Guide To TotallyWholesome
   Sets the strength for <i>ALL<i> connected pet lovense. <i>THIS WILL NOT EFFECT YOUR LOVENSE!</i>
     
 </details>
-  
+{::options parse_block_html="false" /}  
 # [PiShock Main Menu](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pishock-main-menu)
 ![ShockMainMenu](https://user-images.githubusercontent.com/105324215/177823798-8b85b6a2-1407-441e-98bc-0163b1e096d1.png)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -95,10 +95,10 @@ description: A General Guide To TotallyWholesome
   How fast the shocks go from Min Strength to Max Strength.
 
 </details>  
-  
+{::options parse_block_html="false" /}  
 # [T.W. Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-settings-1)
 ![SettingsMainMenu](https://user-images.githubusercontent.com/105324215/177828906-60118019-088f-4aa9-8e75-0160bf5fa050.png)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -144,10 +144,10 @@ description: A General Guide To TotallyWholesome
   A collection of menus that you can show or hide from the main menu. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#menu-visibility-settings-1)
 
 </details>  
-
+{::options parse_block_html="false" /}
 # [Pet Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pet-settings)
 ![SettingsPetMenu](https://user-images.githubusercontent.com/105324215/177836256-ad83ea35-703a-4894-9d13-e9a6bb36290c.png)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -175,10 +175,10 @@ description: A General Guide To TotallyWholesome
   Sets where the lead will attach to your body when you are a pet. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pet-lead-attach-point-1)
 
 </details>  
-  
+{::options parse_block_html="false" /}  
 # [Master Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#master-settings)
 ![SettingsMasterMenu](https://user-images.githubusercontent.com/105324215/177837382-2766f8f9-5112-43bd-869d-23c9cecb895b.png)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -194,10 +194,10 @@ description: A General Guide To TotallyWholesome
   Sets where the lead will attach to your body when you are a master. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#master-lead-attach-point-1)
 
 </details>  
-  
+{::options parse_block_html="false" /}  
 # [Pi Shock Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pi-shock-settings)
 ![SettingsShockMenu](https://user-images.githubusercontent.com/105324215/177837871-2fd21bee-fdb4-415a-8635-8a7d6ca33254.jpg)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -222,10 +222,10 @@ description: A General Guide To TotallyWholesome
   Recieve a warning when you are about to trigger the height control shock.
 
 </details>  
-  
+{::options parse_block_html="false" /}  
 # [T.W. Net Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-net-settings)
 ![SettingsTWMenu](https://user-images.githubusercontent.com/105324215/177839071-7483b490-c745-4a86-ba53-c06c2290720c.png)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -244,10 +244,10 @@ description: A General Guide To TotallyWholesome
   Menu for changing your leash colour. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#leash-colour-1)
 
 </details>  
-  
+{::options parse_block_html="false" /}  
 # [Menu Visibility Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#menu-visibility-settings-1)
 ![MenuVisibilitySettings](https://user-images.githubusercontent.com/105324215/177835744-75f34335-3026-4cdb-81ba-47e25045358b.png)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -258,7 +258,7 @@ description: A General Guide To TotallyWholesome
   Enabling hides the toy strength slider from the Main Menu.
 
 </details>  
-  
+{::options parse_block_html="false" /}  
 # [Pet Lead Attach Point](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pet-lead-attach-point-1)
 ![SettingsPetAttachMenu](https://user-images.githubusercontent.com/105324215/177840141-7dcb1692-881f-4dd0-ac16-f8a01921f73a.png)
 
@@ -271,7 +271,7 @@ Selecting any of these will change that to be where the leash attaches to you wh
 
 # [Leash Colour](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#leash-colour-1)
 ![SettingsColourMenu](https://user-images.githubusercontent.com/105324215/177840830-33e813c3-2f0c-4f04-a381-00786ac63fc6.png)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -282,10 +282,10 @@ Selecting any of these will change that to be where the leash attaches to you wh
   Sets the color in "Colour Preview" as a preset below.
 
 </details>  
-  
+{::options parse_block_html="false" /}  
 # [Status and ETC](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#status-and-etc-1)
 ![StatusMenu](https://user-images.githubusercontent.com/105324215/177841367-892938d2-9de6-4129-bbcd-bbfcca2024d8.png)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -307,9 +307,9 @@ Selecting any of these will change that to be where the leash attaches to you wh
   Buttons for the discord, the PiShock homepage, and the eula.
 
 </details>  
-  
+{::options parse_block_html="false" /}  
 # [AV3 Remote Config](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#av3-remote-config-1)
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click To Expand.</summary>
 
@@ -325,6 +325,6 @@ IF YOU ARE WEARING A SDK3.0 AVI
 Enabling any of the parameters you see will allow the master to control them.
   
 </details>
-  
+{::options parse_block_html="false" /}  
 # [Individual Pet Control](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#individual-pet-control)
 COMING SOON
