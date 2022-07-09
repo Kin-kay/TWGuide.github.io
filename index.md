@@ -12,7 +12,7 @@
 
 > If you have any problems AFTER the above I recommend you do "!logs" in the support channel and follow the instructions given.
 
-## [Main Menu](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#main-menu)
+# [Main Menu](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#main-menu)
 ![MainMenu](https://user-images.githubusercontent.com/105324215/177820267-421a981c-03aa-459d-a985-b0cfd57148eb.png)
 
 <details>
@@ -51,7 +51,7 @@
   Sets the strength for *ALL* connected pet lovense. *THIS WILL NOT EFFECT YOUR LOVENSE!*
 </details>
   
-## [PiShock Main Menu](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pishock-main-menu)
+# [PiShock Main Menu](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pishock-main-menu)
 ![ShockMainMenu](https://user-images.githubusercontent.com/105324215/177823798-8b85b6a2-1407-441e-98bc-0163b1e096d1.png)
 
 <details>
@@ -91,7 +91,7 @@ How fast the shocks go from Min Strength to Max Strength.
 
 </details>  
   
-## [T.W. Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-settings-1)
+# [T.W. Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-settings-1)
 ![SettingsMainMenu](https://user-images.githubusercontent.com/105324215/177828906-60118019-088f-4aa9-8e75-0160bf5fa050.png)
 
 <details>
@@ -140,7 +140,7 @@ A collection of menus that you can show or hide from the main menu. [ReadMore](h
 
 </details>  
 
-## [Pet Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pet-settings)
+# [Pet Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pet-settings)
 ![SettingsPetMenu](https://user-images.githubusercontent.com/105324215/177836256-ad83ea35-703a-4894-9d13-e9a6bb36290c.png)
 
 <details>
@@ -171,7 +171,7 @@ Sets where the lead will attach to your body when you are a pet. [ReadMore](http
 
 </details>  
   
-## [Master Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#master-settings)
+# [Master Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#master-settings)
 ![SettingsMasterMenu](https://user-images.githubusercontent.com/105324215/177837382-2766f8f9-5112-43bd-869d-23c9cecb895b.png)
 
 <details>
@@ -190,7 +190,7 @@ Sets where the lead will attach to your body when you are a master. [ReadMore](h
 
 </details>  
   
-## [Pi Shock Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pi-shock-settings)
+# [Pi Shock Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pi-shock-settings)
 ![SettingsShockMenu](https://user-images.githubusercontent.com/105324215/177837871-2fd21bee-fdb4-415a-8635-8a7d6ca33254.jpg)
 
 <details>
@@ -218,7 +218,7 @@ Recieve a warning when you are about to trigger the height control shock.
 
 </details>  
   
-## [T.W. Net Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-net-settings)
+# [T.W. Net Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-net-settings)
 ![SettingsTWMenu](https://user-images.githubusercontent.com/105324215/177839071-7483b490-c745-4a86-ba53-c06c2290720c.png)
 
 <details>
@@ -240,7 +240,7 @@ Menu for changing your leash colour. [ReadMore](https://github.com/Kin-kay/TWGui
 
 </details>  
   
-## [Menu Visibility Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#menu-visibility-settings-1)
+# [Menu Visibility Settings](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#menu-visibility-settings-1)
 ![MenuVisibilitySettings](https://user-images.githubusercontent.com/105324215/177835744-75f34335-3026-4cdb-81ba-47e25045358b.png)
 
 <details>
@@ -254,17 +254,17 @@ Enabling hides the toy strength slider from the Main Menu.
 
 </details>  
   
-## [Pet Lead Attach Point](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pet-lead-attach-point-1)
+# [Pet Lead Attach Point](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#pet-lead-attach-point-1)
 ![SettingsPetAttachMenu](https://user-images.githubusercontent.com/105324215/177840141-7dcb1692-881f-4dd0-ac16-f8a01921f73a.png)
 
 Selecting any of these will change that to be where the leash attaches to you when you are the pet.
 
-## [Master Lead Attach Point](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#master-lead-attach-point-1)
+# [Master Lead Attach Point](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#master-lead-attach-point-1)
 ![SettingsMasterAttachMenu](https://user-images.githubusercontent.com/105324215/177840506-a5be1db3-a2d1-443a-be0b-736550c55783.png)
 
 Selecting any of these will change that to be where the leash attaches to you when you are the master.
 
-## [Leash Colour](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#leash-colour-1)
+# [Leash Colour](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#leash-colour-1)
 ![SettingsColourMenu](https://user-images.githubusercontent.com/105324215/177840830-33e813c3-2f0c-4f04-a381-00786ac63fc6.png)
 
 <details>
@@ -278,7 +278,7 @@ Sets the color in "Colour Preview" as a preset below.
 
 </details>  
   
-## [Status and ETC](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#status-and-etc-1)
+# [Status and ETC](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#status-and-etc-1)
 ![StatusMenu](https://user-images.githubusercontent.com/105324215/177841367-892938d2-9de6-4129-bbcd-bbfcca2024d8.png)
 
 <details>
@@ -303,7 +303,7 @@ Buttons for the discord, the PiShock homepage, and the eula.
 
 </details>  
   
-## [AV3 Remote Config](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#av3-remote-config-1)
+# [AV3 Remote Config](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#av3-remote-config-1)
 
 <details>
   <summary>Click To Expand.</summary>
@@ -321,5 +321,5 @@ Enabling any of the parameters you see will allow the master to control them.
   
 </details>
   
-## [Individual Pet Control](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#individual-pet-control)
+# [Individual Pet Control](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#individual-pet-control)
 COMING SOON
