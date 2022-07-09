@@ -22,13 +22,13 @@ description: A General Guide To TotallyWholesome
 <details>
   <summary>Click To Expand.</summary>
 
-  Once you have loaded into VRC and go to your QuickMenu you are going to see a new tab. Clicking this tab will bring you to this first menu, the main menu. *After you accept the eula*
+  Once you have loaded into VRC and go to your QuickMenu you are going to see a new tab. Clicking this tab will bring you to this first menu, the main menu. <i>After you accept the eula</i>
 
   <h3>Remove Leash</h3>
-  Remove Leash does as it says. If you have *ANY* leashes attached clicking this button will remove *ALL* of the leashes.
+  Remove Leash does as it says. If you have <i>ANY</i> leashes attached clicking this button will remove <i>ALL</i> of the leashes.
 
   <h3>Clear Notifications</h3>
-  Clear Notifications clears all current notifications, even those that are *currently* pending. This is more used if you need to clear a build up of T.W. requests.
+  Clear Notifications clears all current notifications, even those that are <i>currently</i> pending. This is more used if you need to clear a build up of T.W. requests.
 
   <h3>TW Settings</h3>
   A collection of settings for T.W. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#tw-settings-1)
@@ -37,10 +37,10 @@ description: A General Guide To TotallyWholesome
   A collection of settings refering to your T.W. status and other information. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#status-and-etc-1)
 
   <h3>Gag Pets</h3>
-  This toggle will attempt to gag *ALL* pets leashed. *This will fail if pet does not have force mute allowed.*
+  This toggle will attempt to gag <i>ALL</i> pets leashed. <i>This will fail if pet does not have force mute allowed.</i>
 
   <h3>Temp Unlock Leashes</h3>
-  This toggle will temporarily unlock *ALL* leashes attached to pets. *THIS WILL NOT UNLOCK YOU!*
+  This toggle will temporarily unlock <i>ALL</i> leashes attached to pets. <i>THIS WILL NOT UNLOCK YOU!</i>
 
   <h3>AV3 Remote Config</h3>
   A collection of your current avatars parameters that you can set to allow the Master to control. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#av3-remote-config-1)
@@ -49,10 +49,10 @@ description: A General Guide To TotallyWholesome
   A collection of your current pets allowing for individual control of each pet. [ReadMore](https://github.com/Kin-kay/TWGuide.github.io/edit/main/index.md#individual-pet-control)
 
   <h3>Leash Length</h3>
-  Sets the length for *ALL* pet leashes. *THIS WILL NOT CHANGE YOUR LEASH!*
+  Sets the length for <i>ALL<i> pet leashes. <i>THIS WILL NOT CHANGE YOUR LEASH!</i>
 
   <h3>Lovense Strength</h3>
-  Sets the strength for *ALL* connected pet lovense. *THIS WILL NOT EFFECT YOUR LOVENSE!*
+  Sets the strength for <i>ALL<i> connected pet lovense. <i>THIS WILL NOT EFFECT YOUR LOVENSE!</i>
     
 </details>
   
@@ -65,22 +65,22 @@ description: A General Guide To TotallyWholesome
   Under the Main Menu we have the PiShock Main Menu.
 
   <h3>Beep</h3>
-  It beeps *ALL* connected pet PiShock devices. *BEEP*
+  It beeps <i>ALL<i> connected pet PiShock devices. <i>BEEP</i>
 
   <h3>Vibrate</h3>
-  It vibrates *ALL* connected pet PiShock devices. *BRR*
+  It vibrates <i>ALL<i> connected pet PiShock devices. <i>BRR</i>
 
   <h3>Shock</h3>
-  It shocks *ALL* connected pet PiShock devices. *BZZT*
+  It shocks <i>ALL<i> connected pet PiShock devices. <i>BZZT</i>
 
   <h3>Height Control</h3>
-  Toggles on and off height control for *ALL* connected pet PiShock devices. 
+  Toggles on and off height control for <i>ALL</i> connected pet PiShock devices. 
 
   <h3>Strength</h3>
-  The strength of the Beep, Vibrate, and Shock for *ALL* connected pet PiShock devices.
+  The strength of the Beep, Vibrate, and Shock for <i>ALL</i> connected pet PiShock devices.
 
   <h3>Duration</h3>
-  The duration of the Beep, Vibrate, and Shock for *ALL* connected pet PiShock devices.
+  The duration of the Beep, Vibrate, and Shock for <i>ALL</i> connected pet PiShock devices.
 
   <h3>Shock Height</h3>
   Sets the height at which if the pet goes over it will trigger height control.
@@ -105,10 +105,10 @@ description: A General Guide To TotallyWholesome
   The first grouping under T.W. Settings
 
   <h3>Hide The Leash</h3>
-  Toggles if any leash attached to you is hidden to everyone *INCLUDING YOU* or not.
+  Toggles if any leash attached to you is hidden to everyone <i>INCLUDING YOU</i> or not.
 
   <h3>Private Leash</h3>
-  Toggles if any leash attached to you is hidden to everyone *EXCLUDING PET AND MASTER* or not.
+  Toggles if any leash attached to you is hidden to everyone <i>EXCLUDING PET AND MASTER</i> or not.
 
   <h3>Auto Accept Requests From Friends Only</h3>
   Checks to see if you have "Auto Accept Pet Requests" or "Auto Accept Master Requests" enabled then checks if the person requesting is your friend. If they are the request will be accepted.
@@ -129,7 +129,7 @@ description: A General Guide To TotallyWholesome
   Toggles if T.W. will use UIX buttons for settings.
 
   <h3>Use Beta Versions</h3>
-  Toggles if you will use the Beta Version. *Only works if you have the beta key.*
+  Toggles if you will use the Beta Version. <i>Only works if you have the beta key.</i>
 
   <h3>Restart Buttplug</h3>
   Attempts to restart Buttplug.io
