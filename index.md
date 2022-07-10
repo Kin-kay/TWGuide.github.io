@@ -17,9 +17,11 @@ description: A General Guide To TotallyWholesome
   <h4>3. Drag and drop mod into mods folder</h4>
   <h4>4. Run VRC</h4>
 
-  > If you have any problems with the above I recommend you go to youtube and find some videos on how to use a computer.
+  <p>
+  If you have any problems with the above I recommend you go to youtube and find some videos on how to use a computer.
 
-  > If you have any problems AFTER the above I recommend you do "!logs" in the support channel and follow the instructions given.
+  If you have any problems AFTER the above I recommend you do "!logs" in the support channel and follow the instructions given.
+  </p>
 
 </details>
   
