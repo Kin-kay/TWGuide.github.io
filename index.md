@@ -19,8 +19,7 @@ description: A General Guide To TotallyWholesome
 
   <p>
   If you have any problems with the above I recommend you go to youtube and find some videos on how to use a computer.
-
-  If you have any problems AFTER the above I recommend you do "!logs" in the support channel and follow the instructions given.
+  <br>If you have any problems AFTER the above I recommend you do "!logs" in the support channel and follow the instructions given.
   </p>
 
 </details>
