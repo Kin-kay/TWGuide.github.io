@@ -7,16 +7,25 @@ description: A General Guide To TotallyWholesome
 ##### Current version 3.2
 > This is designed to be as relevent to its current version as possible.
 
-## The Installation 
-1. Run Melonloader Installer
-2. Go find mods folder (Probably at C:\Program Files (x86)\Steam\steamapps\common\VRChat\)
-3. Drag and drop mod into mods folder
-4. Run VRC
+<h2><a id="The_Installation">The Installation</a></h2>
 
-> If you have any problems with the above I recommend you go to youtube and find some videos on how to use a computer.
+<details>
+  <summary>Click To Expand.</summary>
 
-> If you have any problems AFTER the above I recommend you do "!logs" in the support channel and follow the instructions given.
+  1. Run Melonloader Installer
 
+  2. Go find mods folder (Probably at C:\Program Files (x86)\Steam\steamapps\common\VRChat\)
+
+  3. Drag and drop mod into mods folder
+
+  4. Run VRC
+
+  > If you have any problems with the above I recommend you go to youtube and find some videos on how to use a computer.
+
+  > If you have any problems AFTER the above I recommend you do "!logs" in the support channel and follow the instructions given.
+
+</details>
+  
 <h1><a id="Main_Menu">Main Menu</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177820267-421a981c-03aa-459d-a985-b0cfd57148eb.png" alt="MainMenu">
 
@@ -32,7 +41,7 @@ description: A General Guide To TotallyWholesome
   Clear Notifications clears all current notifications, even those that are <i>currently</i> pending. This is more used if you need to clear a build up of T.W. requests.
 
   <h3>TW Settings</h3>
-  A collection of settings for T.W. <a href="T.W._Settings">ReadMore</a>
+  A collection of settings for T.W. <a href="#T.W._Settings">ReadMore</a>
 
   <h3>Status and ETC</h3>
   A collection of settings refering to your T.W. status and other information. <a href="#Status_and_ETC">ReadMore</a>
