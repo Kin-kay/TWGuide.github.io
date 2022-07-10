@@ -12,13 +12,10 @@ description: A General Guide To TotallyWholesome
 <details>
   <summary>Click To Expand.</summary>
 
-  1. Run Melonloader Installer
-
-  2. Go find mods folder (Probably at C:\Program Files (x86)\Steam\steamapps\common\VRChat\)
-
-  3. Drag and drop mod into mods folder
-
-  4. Run VRC
+  <h4>1. Run Melonloader Installer</h4>
+  <h4>2. Go find mods folder (Probably at C:\Program Files (x86)\Steam\steamapps\common\VRChat\)</h4>
+  <h4>3. Drag and drop mod into mods folder</h4>
+  <h4>4. Run VRC</h4>
 
   > If you have any problems with the above I recommend you go to youtube and find some videos on how to use a computer.
 
