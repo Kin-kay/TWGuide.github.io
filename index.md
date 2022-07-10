@@ -17,7 +17,7 @@ description: A General Guide To TotallyWholesome
 
 > If you have any problems AFTER the above I recommend you do "!logs" in the support channel and follow the instructions given.
 
-<h1><a id="Main Menu">Main Menu</a></h1>
+<h1><a id="Main_Menu">Main Menu</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177820267-421a981c-03aa-459d-a985-b0cfd57148eb.png" alt="MainMenu">
 
 <details>
@@ -32,10 +32,10 @@ description: A General Guide To TotallyWholesome
   Clear Notifications clears all current notifications, even those that are <i>currently</i> pending. This is more used if you need to clear a build up of T.W. requests.
 
   <h3>TW Settings</h3>
-  A collection of settings for T.W. <a href="T.W. Settings">ReadMore</a>
+  A collection of settings for T.W. <a href="T.W._Settings">ReadMore</a>
 
   <h3>Status and ETC</h3>
-  A collection of settings refering to your T.W. status and other information. <a href="Status and ETC">ReadMore</a>
+  A collection of settings refering to your T.W. status and other information. <a href="#Status_and_ETC">ReadMore</a>
 
   <h3>Gag Pets</h3>
   This toggle will attempt to gag <i>ALL</i> pets leashed. <i>This will fail if pet does not have force mute allowed.</i>
@@ -44,10 +44,10 @@ description: A General Guide To TotallyWholesome
   This toggle will temporarily unlock <i>ALL</i> leashes attached to pets. <i>THIS WILL NOT UNLOCK YOU!</i>
 
   <h3>AV3 Remote Config</h3>
-  A collection of your current avatars parameters that you can set to allow the Master to control. <a href="AV3 Remote Config">ReadMore</a>
+  A collection of your current avatars parameters that you can set to allow the Master to control. <a href="#AV3_Remote_Config">ReadMore</a>
 
   <h3>Individual Pet Controls</h3>
-  A collection of your current pets allowing for individual control of each pet. <a href="Individual Pet Controls">ReadMore</a>
+  A collection of your current pets allowing for individual control of each pet. <a href="#Individual_Pet_Controls">ReadMore</a>
 
   <h3>Leash Length</h3>
   Sets the length for <i>ALL</i> pet leashes. <i>THIS WILL NOT CHANGE YOUR LEASH!</i>
@@ -57,7 +57,7 @@ description: A General Guide To TotallyWholesome
     
 </details>
 
-<h1><a id="PiShock Main Menu">PiShock Main Menu</a></h1>
+<h1><a id="PiShock_Main_Menu">PiShock Main Menu</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177823798-8b85b6a2-1407-441e-98bc-0163b1e096d1.png" alt="ShockMainMenu">
 
 <details>
@@ -97,7 +97,7 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="T.W. Settings">T.W. Settings</a></h1>
+<h1><a id="T.W._Settings">T.W. Settings</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177828906-60118019-088f-4aa9-8e75-0160bf5fa050.png" alt="SettingsMainMenu">
 
 <details>
@@ -142,11 +142,11 @@ description: A General Guide To TotallyWholesome
   Reloads the T.W. Settings config.
 
   <h3>Menu Visibility Settings</h3>
-  A collection of menus that you can show or hide from the main menu. <a href="Menu Visibility Settings">ReadMore</a>
+  A collection of menus that you can show or hide from the main menu. <a href="#Menu_Visibility_Settings">ReadMore</a>
 
 </details>  
 
-<h1><a id="Pet Settings">Pet Settings</a></h1>
+<h1><a id="Pet_Settings">Pet Settings</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177836256-ad83ea35-703a-4894-9d13-e9a6bb36290c.png" alt="SettingsPetMenu">
 
 <details>
@@ -173,11 +173,11 @@ description: A General Guide To TotallyWholesome
   If Master has "Allow Pet To Follow You" enabled when your master moves to a new world you will be pulled with them.
 
   <h3>Pet Lead Attach Point</h3>
-  Sets where the lead will attach to your body when you are a pet. <a href="Pet Lead Attach Point">ReadMore</a>
+  Sets where the lead will attach to your body when you are a pet. <a href="#Pet_Lead_Attach_Point">ReadMore</a>
 
 </details>  
  
-<h1><a id="Master Settings">Master Settings</a></h1>
+<h1><a id="Master_Settings">Master Settings</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177837382-2766f8f9-5112-43bd-869d-23c9cecb895b.png" alt="SettingsMasterMenu">
 
 <details>
@@ -192,11 +192,11 @@ description: A General Guide To TotallyWholesome
   Does as it says. Auto Accepts Master Requests from *anyone* that is not blocked through T.W.
 
   <h3>Master Lead Attach Point</h3>
-  Sets where the lead will attach to your body when you are a master. <a href="Master Lead Attach Point">ReadMore</a>
+  Sets where the lead will attach to your body when you are a master. <a href="#Master_Lead_Attach_Point">ReadMore</a>
 
 </details>  
 
-<h1><a id="Pi Shock Settings">Pi Shock Settings</a></h1>
+<h1><a id="Pi_Shock_Settings">Pi Shock Settings</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/178126768-0d5a2a45-9e54-4fbe-8455-6a7e53d9e659.png" alt="SettingsShockMenu">
 
 <details>
@@ -230,7 +230,7 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="T.W. Net Settings">T.W. Net Settings</a></h1>
+<h1><a id="T.W._Net_Settings">T.W. Net Settings</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177839071-7483b490-c745-4a86-ba53-c06c2290720c.png" alt="SettingsTWMenu">
 
 <details>
@@ -248,11 +248,11 @@ description: A General Guide To TotallyWholesome
   Should not need to be used. TW will auto reconnect unless disconnected using "Disconnect From TWNet".
 
   <h3>Leash Colour</h3>
-  Menu for changing your leash colour. <a href="Leash Colour">ReadMore</a>
+  Menu for changing your leash colour. <a href="#Leash_Colour">ReadMore</a>
 
 </details>  
 
-<h1><a id="Menu Visibility">Menu Visibility Settings</a></h1>
+<h1><a id="Menu_Visibility">Menu Visibility Settings</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177835744-75f34335-3026-4cdb-81ba-47e25045358b.png" alt="MenuVisibilitySettings">
 
 <details>
@@ -266,17 +266,17 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="Pet Lead Attach Point">Pet Lead Attach Point</a></h1>
+<h1><a id="Pet_Lead_Attach_Point">Pet Lead Attach Point</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177840141-7dcb1692-881f-4dd0-ac16-f8a01921f73a.png" alt="SettingsPetAttachMenu">
 
 Selecting any of these will change that to be where the leash attaches to you when you are the pet.
 
-<h1><a id="Master Lead Attach Point">Master Lead Attach Point</a></h1>
+<h1><a id="Master_Lead_Attach_Point">Master Lead Attach Point</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177840506-a5be1db3-a2d1-443a-be0b-736550c55783.png" alt="SettingsMasterAttachMenu">
 
 Selecting any of these will change that to be where the leash attaches to you when you are the master.
 
-<h1><a id="Leash Colour">Leash Colour</a></h1>
+<h1><a id="Leash_Colour">Leash Colour</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177840830-33e813c3-2f0c-4f04-a381-00786ac63fc6.png" alt="SettingsColourMenu">
 
 <details>
@@ -290,7 +290,7 @@ Selecting any of these will change that to be where the leash attaches to you wh
 
 </details>  
 
-<h1><a id="Status and ETC">Status and ETC</a></h1>
+<h1><a id="Status_and_ETC">Status and ETC</a></h1>
 <img src="https://user-images.githubusercontent.com/105324215/177841367-892938d2-9de6-4129-bbcd-bbfcca2024d8.png" alt="StatusMenu">
 
 <details>
@@ -315,7 +315,7 @@ Selecting any of these will change that to be where the leash attaches to you wh
 
 </details>  
  
-<h1><a id="AV3 Remote Config">AV3 Remote Config</a></h1>
+<h1><a id="AV3_Remote_Config">AV3 Remote Config</a></h1>
 
 <details>
   <summary>Click To Expand.</summary>
@@ -333,5 +333,5 @@ Enabling any of the parameters you see will allow the master to control them.
   
 </details>
 
-<h1><a id="Individual Pet Control">Individual Pet Control</a></h1>
+<h1><a id="Individual_Pet_Control">Individual Pet Control</a></h1>
 COMING SOON
