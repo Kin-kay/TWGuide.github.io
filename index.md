@@ -330,7 +330,7 @@ Selecting any of these will change that to be where the leash attaches to you wh
 IF YOU ARE WEARING A SDK2.0 AVI
 <br>
 <img src="https://user-images.githubusercontent.com/105324215/177842428-2861d5b6-b804-4bff-95d1-b9f2eafb13a3.png" alt="AV3RemoteConfigSDK2">
-
+<br>
 IF YOU ARE WEARING A SDK3.0 AVI
 <br>
 <img src="https://user-images.githubusercontent.com/105324215/177842491-3c52b60c-8426-4b69-8ae2-9ab3a16c3630.png" alt="AV3RemoteConfigSDK3">
