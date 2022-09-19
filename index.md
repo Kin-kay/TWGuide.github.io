@@ -4,7 +4,7 @@ title: TW Guide
 description: A General Guide To TotallyWholesome
 ---
 
-##### Current version 3.2
+##### Current version 3.1.1
 > This is designed to be as relevent to its current version as possible.
 
 <h2><a id="The_Installation">The Installation</a></h2>
@@ -13,9 +13,9 @@ description: A General Guide To TotallyWholesome
   <summary>Click To Expand.</summary>
 
   <h4>1. Run Melonloader Installer</h4>
-  <h4>2. Go find mods folder (Probably at C:\Program Files (x86)\Steam\steamapps\common\VRChat\)</h4>
+  <h4>2. Go find mods folder (Probably at C:\Program Files (x86)\Steam\steamapps\common\ChilloutVR\)</h4>
   <h4>3. Drag and drop mod into mods folder</h4>
-  <h4>4. Run VRC</h4>
+  <h4>4. Run CVR</h4>
 
   <p>
   If you have any problems with the above I recommend you go to youtube and find some videos on how to use a computer.
@@ -51,7 +51,7 @@ description: A General Guide To TotallyWholesome
   This toggle will temporarily unlock <i>ALL</i> leashes attached to pets. <i>THIS WILL NOT UNLOCK YOU!</i>
 
   <h3>AV3 Remote Config</h3>
-  A collection of your current avatars parameters that you can set to allow the Master to control. <a href="#AV3_Remote_Config">ReadMore</a>
+  A collection of your current avatars parameters that you can set to allow the Master to control. <a href="#Avatar_Remote_Config">ReadMore</a>
 
   <h3>Individual Pet Controls</h3>
   A collection of your current pets allowing for individual control of each pet. <a href="#Individual_Pet_Controls">ReadMore</a>
@@ -281,7 +281,7 @@ Selecting any of these will change that to be where the leash attaches to you wh
 Selecting any of these will change that to be where the leash attaches to you when you are the master.
 
 <h1><a id="Leash_Colour">Leash Color Config</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191078796-ebfe2415-c727-4fe3-b9c5-144d7169ff78.png" alt="SettingsColourMenu">
+<img src="https://user-images.githubusercontent.com/105324215/191078796-ebfe2415-c727-4fe3-b9c5-144d7169ff78.png" alt="SettingsColorMenu">
 
 <details>
   <summary>Click To Expand.</summary>
@@ -316,7 +316,7 @@ Selecting any of these will change that to be where the leash attaches to you wh
   
 </details>  
  
-<h1><a id="AV3_Remote_Config">Avatar Remote Config</a></h1>
+<h1><a id="Avatar_Remote_Config">Avatar Remote Config</a></h1>
 
 <details>
   <summary>Click To Expand.</summary>
