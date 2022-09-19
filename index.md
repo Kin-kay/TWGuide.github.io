@@ -54,7 +54,7 @@ description: A General Guide To TotallyWholesome
   A collection of your current avatars parameters that you can set to allow the Master to control. <a href="#Avatar_Remote_Config">ReadMore</a>
 
   <h3>Individual Pet Controls</h3>
-  A collection of your current pets allowing for individual control of each pet. <a href="#Individual_Pet_Controls">ReadMore</a>
+  A collection of your current pets allowing for individual control of each pet. <a href="#Individual_Pet_Control">ReadMore</a>
 
   <h3>Leash Length</h3>
   Sets the length for <i>ALL</i> pet leashes. <i>THIS WILL NOT CHANGE YOUR LEASH!</i>
@@ -125,7 +125,7 @@ description: A General Guide To TotallyWholesome
   Reloads the T.W. Settings config.
   
   <h3>Menu Settings</h3>
-  A collection of menus that you can show or hide from the main menu. <a href="#Menu_Visibility_Settings">ReadMore</a>
+  A collection of menus that you can show or hide from the main menu. <a href="#Menu_Settings">ReadMore</a>
   
   <h3>Hide The Leash</h3>
   Toggles if any leash attached to you is hidden to everyone <i>INCLUDING YOU</i> or not.
@@ -250,8 +250,8 @@ description: A General Guide To TotallyWholesome
 
 </details>  
 
-<h1><a id="Menu_Visibility">Menu Visibility Settings</a></h1>
-<img src="https://user-images.githubusercontent.com/105324215/191078429-7af49ce2-f1c3-4213-9a56-268789b4c812.png" alt="MenuVisibilitySettings">
+<h1><a id="Menu_Settings">Menu Settings</a></h1>
+<img src="https://user-images.githubusercontent.com/105324215/191078429-7af49ce2-f1c3-4213-9a56-268789b4c812.png" alt="MenuSettings">
 
 <details>
   <summary>Click To Expand.</summary>
